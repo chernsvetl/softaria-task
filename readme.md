@@ -20,7 +20,7 @@
 мониторинга.
 
 ## Документирование
-**Реалиация**  _src/main/java/org/example/Main.java_
+**Точка входа**  _src/main/java/org/example/Main.java_
 <br />
 **Тест** на работоспособность программы расположен в _src/test/java/WebChangesTest.java_
 <br />
